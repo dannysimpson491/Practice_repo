@@ -1,2 +1,3 @@
 Hello World
-making a bigger change
+I made a change to the file.
+I then made a bigger change.
